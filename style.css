@@ -3,6 +3,11 @@
         Built with Blocs
 -----------------------------------------------------------------------------------*/
 
+.image-container {
+  display: flex;
+  justify-content: center;
+}
+
 body{
 	margin:0;
 	padding:0;
