@@ -1,0 +1,16 @@
+{
+    "applinks": 
+    {
+        "apps": [],
+        "details": [
+            {
+                "appID": "C37C7VSKF4.Jeeran",
+                "paths": [ "*" ]
+            }
+        ]
+    },
+    "activitycontinuation": 
+    {
+		"apps": ["C37C7VSKF4.Jeeran"]
+	  }
+}
